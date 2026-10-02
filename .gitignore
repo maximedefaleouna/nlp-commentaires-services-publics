@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels et variables locales
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Jupyter et caches d'outils
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Fichiers locaux
+.DS_Store
+Thumbs.db
